@@ -1,4 +1,4 @@
-https://MandeepRahar07.github.io/
+https://MandeepRahar07.github.io
 <h1 align="center">Hi 👋, I'm Mandeep Rahar</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
