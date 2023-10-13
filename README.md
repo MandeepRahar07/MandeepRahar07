@@ -11,7 +11,7 @@ https://MandeepRahar07.github.io
 - 👨‍💻 All of my projects are available at [Portfolio](https://mandeeprahar07.github.io/)
 
 - 📫 How to reach me **vedican.v44@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PHt-che-GQP9z7Xs35gY0LhpHJ_SIgu5/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nWEchFJw2f1H8vpCW-3fn-THQtt2DUij/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mandeep-rahar07" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=13930&format=png"" alt="MandeepRahar07" height="30" width="40" /></a>
