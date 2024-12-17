@@ -11,7 +11,7 @@ https://MandeepRahar07.github.io
 - 👨‍💻 All of my projects are available at [Portfolio](https://mandeeprahar07.github.io/)
 - 💬 Ask me about *HTML, CSS, JAVA, JAVA SCRIPT, REACT, REDUX, CHAKRA UI, MONGODB, EXPRESS, NODE JS*
 - 📫 How to reach me **vedican.v44@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nWEchFJw2f1H8vpCW-3fn-THQtt2DUij/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vDgMi7St4pze4BW4wxWvHHB8s2HE8Hci/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mandeep-rahar07" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=13930&format=png"" alt="MandeepRahar07" height="30" width="40" /></a>
