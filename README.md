@@ -6,7 +6,7 @@ https://MandeepRahar07.github.io
 <img width="400" align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="code" >
 
   Portfolio : https://mandeeprahar07.github.io/
-  Portfolio : https://mandeeprahar07.github.io
+ 
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://mandeeprahar07.github.io/)
 - 💬 Ask me about *HTML, CSS, JAVA, JAVA SCRIPT, REACT, REDUX, CHAKRA UI, MONGODB, EXPRESS, NODE JS*
