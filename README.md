@@ -1,6 +1,6 @@
 https://MandeepRahar07.github.io
 <h1 align="center">Hi 👋, I'm Mandeep Rahar</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">Dynamic Full Stack Web Developer with a strong command of the MERN stack and expertise in JavaScript. Demonstrates a keen aptitude for Generative AI and rapidly learning new technologies. Adept at building scalable applications, and enhancing development processes.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MandeepRahar07&label=Profile%20views&color=0e75b6&style=flat" alt="MandeepRahar07" /> </p>
 <img width="400" align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="code" >
